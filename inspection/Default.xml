@@ -1,7 +1,6 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
   <inspection_tool class="BadExceptionsProcessingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="CheckTagEmptyBody" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ClassOverridesFieldOfSuperClassInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ComparisonOperandsOrderInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
     <option name="PREFER_REGULAR_STYLE" value="true" />
@@ -59,9 +58,6 @@
     <option name="DONT_REPORT_MULTI_RESOLVE" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpUnhandledExceptionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="RequiredAttributes" enabled="false" level="WARNING" enabled_by_default="false">
-    <option name="myAdditionalRequiredHtmlAttributes" value="" />
-  </inspection_tool>
   <inspection_tool class="SecurityAdvisoriesInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="optionConfiguration">
       <list>

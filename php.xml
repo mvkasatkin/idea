@@ -11,14 +11,14 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/local/Cellar/php71/7.1.14_25/bin/php" id="eee0bf37-200c-4471-ac30-65fd53125f42" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/local/bin/php" id="eee0bf37-200c-4471-ac30-65fd53125f42" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.1">
         <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php71/7.1.14_25/bin/php-cgi" php_cli="/usr/local/Cellar/php71/7.1.14_25/bin/php" path_separator=":" version="7.1.14">
-          <additional_php_ini>/usr/local/etc/php/7.1/conf.d/ext-mongodb.ini, /usr/local/etc/php/7.1/conf.d/ext-xdebug.ini</additional_php_ini>
+          <additional_php_ini>/usr/local/etc/php/7.1/conf.d/ext-igbinary.ini, /usr/local/etc/php/7.1/conf.d/ext-intl.ini, /usr/local/etc/php/7.1/conf.d/ext-mcrypt.ini, /usr/local/etc/php/7.1/conf.d/ext-mongodb.ini, /usr/local/etc/php/7.1/conf.d/ext-redis.ini, /usr/local/etc/php/7.1/conf.d/ext-xdebug.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.1/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
@@ -45,7 +45,7 @@
             <configuration_option name="date.default_longitude" value="35.2333" />
             <configuration_option name="date.sunrise_zenith" value="90.583333" />
             <configuration_option name="date.sunset_zenith" value="90.583333" />
-            <configuration_option name="date.timezone" value="" />
+            <configuration_option name="date.timezone" value="Europe/Moscow" />
             <configuration_option name="dba.default_handler" value="flatfile" />
             <configuration_option name="default_charset" value="UTF-8" />
             <configuration_option name="default_mimetype" value="text/html" />
@@ -86,6 +86,7 @@
             <configuration_option name="iconv.input_encoding" value="" />
             <configuration_option name="iconv.internal_encoding" value="" />
             <configuration_option name="iconv.output_encoding" value="" />
+            <configuration_option name="igbinary.compact_strings" value="1" />
             <configuration_option name="ignore_repeated_errors" value="" />
             <configuration_option name="ignore_repeated_source" value="" />
             <configuration_option name="ignore_user_abort" value="0" />
@@ -93,6 +94,9 @@
             <configuration_option name="include_path" value=".:" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
+            <configuration_option name="intl.default_locale" value="" />
+            <configuration_option name="intl.error_level" value="0" />
+            <configuration_option name="intl.use_exceptions" value="0" />
             <configuration_option name="ldap.max_links" value="-1" />
             <configuration_option name="log_errors" value="1" />
             <configuration_option name="log_errors_max_len" value="1024" />
@@ -114,7 +118,10 @@
             <configuration_option name="mbstring.language" value="neutral" />
             <configuration_option name="mbstring.strict_detection" value="0" />
             <configuration_option name="mbstring.substitute_character" value="" />
+            <configuration_option name="mcrypt.algorithms_dir" value="" />
+            <configuration_option name="mcrypt.modes_dir" value="" />
             <configuration_option name="memory_limit" value="128M" />
+            <configuration_option name="mongodb.debug" value="" />
             <configuration_option name="mysqli.allow_local_infile" value="1" />
             <configuration_option name="mysqli.allow_persistent" value="1" />
             <configuration_option name="mysqli.default_host" value="" />
@@ -164,6 +171,15 @@
             <configuration_option name="precision" value="14" />
             <configuration_option name="realpath_cache_size" value="4096K" />
             <configuration_option name="realpath_cache_ttl" value="120" />
+            <configuration_option name="redis.arrays.autorehash" value="" />
+            <configuration_option name="redis.arrays.functions" value="" />
+            <configuration_option name="redis.arrays.hosts" value="" />
+            <configuration_option name="redis.arrays.index" value="" />
+            <configuration_option name="redis.arrays.names" value="" />
+            <configuration_option name="redis.arrays.previous" value="" />
+            <configuration_option name="redis.clusters.read_timeout" value="" />
+            <configuration_option name="redis.clusters.seeds" value="" />
+            <configuration_option name="redis.clusters.timeout" value="" />
             <configuration_option name="register_argc_argv" value="1" />
             <configuration_option name="report_memleaks" value="1" />
             <configuration_option name="report_zend_debug" value="0" />
@@ -329,10 +345,14 @@
             <extension name="gettext" />
             <extension name="hash" />
             <extension name="iconv" />
+            <extension name="igbinary" />
+            <extension name="intl" />
             <extension name="json" />
             <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
+            <extension name="mcrypt" />
+            <extension name="mongodb" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="odbc" />
@@ -343,6 +363,7 @@
             <extension name="pdo_sqlite" />
             <extension name="posix" />
             <extension name="readline" />
+            <extension name="redis" />
             <extension name="session" />
             <extension name="shmop" />
             <extension name="soap" />
