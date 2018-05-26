@@ -31,7 +31,6 @@
     </option>
     <option name="migratedIntoUserSpace" value="true" />
   </inspection_tool>
-  <inspection_tool class="JSMethodCanBeStatic" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MessDetectorValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="CODESIZE" value="true" />
     <option name="CONTROVERSIAL" value="true" />
@@ -107,5 +106,8 @@
         <option value="zendframework/zend-test" />
       </list>
     </option>
+  </inspection_tool>
+  <inspection_tool class="UnterminatedStatementJS" enabled="false" level="WARNING" enabled_by_default="false">
+    <option name="ignoreSemicolonAtEndOfBlock" value="true" />
   </inspection_tool>
 </profile>
