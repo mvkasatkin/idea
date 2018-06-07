@@ -10,6 +10,7 @@
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="111111" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
