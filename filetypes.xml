@@ -10,6 +10,7 @@
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="111111" type="PLAIN_TEXT" />
+      <mapping pattern="BoxFlex.tsx" type="TypeScript JSX" />
     </extensionMap>
   </component>
 </application>
