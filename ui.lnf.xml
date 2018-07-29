@@ -38,6 +38,8 @@
       <NestingRule child-file-suffix=".styled.tsx" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".spec.tsx" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".container.tsx" parent-file-suffix=".tsx" />
+      <NestingRule child-file-suffix=".form.tsx" parent-file-suffix=".tsx" />
+      <NestingRule child-file-suffix=".form.ts" parent-file-suffix=".tsx" />
     </nesting-rules>
   </component>
   <component name="UISettings">
