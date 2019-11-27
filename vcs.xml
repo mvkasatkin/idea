@@ -14,6 +14,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="mvkasatkin" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://lab.ion.team" />
+          <option name="userName" value="m.kasatkin@ion.team" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
