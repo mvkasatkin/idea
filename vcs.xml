@@ -4,7 +4,7 @@
       <list>
         <UrlAndUserName>
           <option name="url" value="http://github.com" />
-          <option name="userName" value="mvkasatkin" />
+          <option name="userName" value="mvkasatkin@gmail.com" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://gitlab.rtclogic.com" />
@@ -12,7 +12,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="mvkasatkin@gmail.com" />
+          <option name="userName" value="mvkasatkin" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://lab.ion.team" />
