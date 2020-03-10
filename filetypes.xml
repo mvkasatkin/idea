@@ -6,9 +6,9 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="htproxy.sh" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
+      <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="pine" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
-      <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="interface" type="TypeScript" />
       <mapping pattern="TreeEditable" type="TypeScript JSX" />
     </extensionMap>
