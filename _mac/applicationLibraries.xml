@@ -4,5 +4,13 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/workbox-sw" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/workbox-window" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
   </component>
 </application>
