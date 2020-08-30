@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
+      <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="htproxy.sh" type="PLAIN_TEXT" />
       <mapping pattern="api" type="PLAIN_TEXT" />
       <mapping ext="pine" type="PLAIN_TEXT" />
