@@ -45,9 +45,12 @@
       <NestingRule child-file-suffix=".spec.tsx" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".styled.tsx" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".test.tsx" parent-file-suffix=".tsx" />
+      <NestingRule child-file-suffix=".spec.js" parent-file-suffix=".vue" />
+      <NestingRule child-file-suffix=".spec.ts" parent-file-suffix=".vue" />
     </nesting-rules>
   </component>
   <component name="UISettings">
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
   </component>
 </application>
