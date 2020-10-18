@@ -7,8 +7,8 @@
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="Study" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="some_file" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="htproxy.sh" type="PLAIN_TEXT" />
       <mapping pattern="api" type="PLAIN_TEXT" />
       <mapping ext="pine" type="PLAIN_TEXT" />
