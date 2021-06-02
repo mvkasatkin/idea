@@ -17,7 +17,6 @@
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="interface" type="TypeScript" />
       <mapping pattern="TreeEditable" type="TypeScript JSX" />
-      <mapping pattern=".analysis_options" type="YAML" />
     </extensionMap>
   </component>
 </application>
