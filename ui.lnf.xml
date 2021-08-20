@@ -51,6 +51,7 @@
   </component>
   <component name="UISettings">
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
+    <option name="EDITOR_AA_TYPE" value="Greyscale" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
   </component>
 </application>
