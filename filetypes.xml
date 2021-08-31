@@ -18,8 +18,8 @@
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="interface" type="TypeScript" />
+      <mapping ext="ts" type="TypeScript" />
       <mapping pattern="TreeEditable" type="TypeScript JSX" />
-      <removed_mapping ext="ts" approved="true" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
