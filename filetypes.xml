@@ -19,6 +19,7 @@
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="interface" type="TypeScript" />
       <mapping pattern="TreeEditable" type="TypeScript JSX" />
+      <removed_mapping ext="csv" approved="true" type="CSV" />
     </extensionMap>
   </component>
 </application>
