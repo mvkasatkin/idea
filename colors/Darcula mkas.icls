@@ -4,7 +4,7 @@
     <property name="created">2021-11-14T12:27:25</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2021-11-14T22:52:11</property>
+    <property name="modified">2021-11-15T00:15:38</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -56,6 +56,14 @@
         <option name="BACKGROUND" value="3c3f41" />
         <option name="EFFECT_COLOR" value="3c704b" />
         <option name="ERROR_STRIPE_COLOR" value="61936f" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="f5f5f5" />
+        <option name="BACKGROUND" value="67ce" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
     </option>
     <option name="TS.TYPE_GUARD">
