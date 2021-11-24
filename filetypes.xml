@@ -3,6 +3,7 @@
     <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="ver" type="AUTO_DETECTED" />
+      <mapping pattern="MapExt" type="AUTO_DETECTED" />
       <mapping pattern=".versionrc" type="PLAIN_TEXT" />
       <mapping pattern="some_file" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
