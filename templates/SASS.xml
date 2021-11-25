@@ -1,0 +1,7 @@
+<templateSet group="SASS">
+  <template name=".root" value="@use &quot;src/assets/scss/helpers&quot; as *;&#10;&#10;.root {$END$&#10;}&#10;" description="init react module" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>
