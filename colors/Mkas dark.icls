@@ -4,20 +4,13 @@
     <property name="created">2021-11-09T21:21:40</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2021-11-09T21:36:30</property>
+    <property name="modified">2021-12-22T17:10:46</property>
     <property name="originalScheme">Material Oceanic custom</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
