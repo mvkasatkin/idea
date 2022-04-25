@@ -2,15 +2,16 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping pattern="keystore" type="AUTO_DETECTED" />
       <mapping pattern="ver" type="AUTO_DETECTED" />
       <mapping pattern="MapExt" type="AUTO_DETECTED" />
-      <mapping pattern=".versionrc" type="PLAIN_TEXT" />
-      <mapping pattern="some_file" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="api" type="PLAIN_TEXT" />
-      <mapping pattern="Study" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
+      <mapping pattern=".versionrc" type="PLAIN_TEXT" />
+      <mapping pattern="some_file" type="PLAIN_TEXT" />
+      <mapping pattern="Study" type="PLAIN_TEXT" />
       <mapping pattern="htproxy.sh" type="PLAIN_TEXT" />
       <mapping ext="pine" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
