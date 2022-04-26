@@ -5,6 +5,7 @@
       <mapping pattern="keystore" type="AUTO_DETECTED" />
       <mapping pattern="ver" type="AUTO_DETECTED" />
       <mapping pattern="MapExt" type="AUTO_DETECTED" />
+      <mapping ext="ng" type="HTML" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="api" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
