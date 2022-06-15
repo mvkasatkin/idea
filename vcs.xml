@@ -18,6 +18,10 @@
           <option name="url" value="http://lab.ion.team" />
           <option name="userName" value="m.kasatkin@ion.team" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.gbooking.ru" />
+          <option name="userName" value="mk@med.me" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
