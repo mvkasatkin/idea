@@ -23,6 +23,7 @@
       <mapping ext="interface" type="TypeScript" />
       <mapping pattern="TreeEditable" type="TypeScript JSX" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
+      <removed_mapping ext="prisma" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
